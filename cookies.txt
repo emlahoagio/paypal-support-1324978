@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.webflow.io	TRUE	/	FALSE	1999999999	__cf_bm	U9wrrnEZiOsNRibSfPErpKvYrGUlYcWU7m_weLYW0Pc-1733231668-1.0.1.1-JsGeuyEmZl3SMtj9N85OxRciOeYMqkhkxpCcpEY4QhdnPBnPtr4Eq0lvoW1d2XumxR86kV6J5_HBwSJa4wtQ7Q
+.webflow.io	TRUE	/	FALSE	1999999999	_cfuvid	gNaCI4QGQtbkV7mYFHiONWIKw5TCnGZtOxmNrhMQAeM-1733231669310-0.0.1.1-604800000
+paypal-support-service.webflow.io	TRUE	/	FALSE	1999999999	SameSite	None
+.prod.website-files.com	TRUE	/	FALSE	1999999999	__cf_bm	7qdiux1TS_ZyrcTSebOgf9hY4zT_cueFSbUtzw2imnE-1733231669-1.0.1.1-mY9er4EZpAgLgnSTigSau_f0ATePuAKmBstVwCR7qRuLb8fPXSeFH_8S1XyP97dhI3PtHmkAkwGssF_kAiVqtw
+cdn.prod.website-files.com	TRUE	/	FALSE	1999999999	SameSite	None
+
